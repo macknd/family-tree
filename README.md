@@ -1,11 +1,12 @@
+# Week 7 Assignment
 1. Create a JS file called index.js
 
 2. Create 5 javascript objects that include family members and basic information about them as properties.
-- firstName
-- lastName
-- age
-- favoriteTVShow
-- favoriteSong
+    - firstName
+    - lastName
+    - age
+    - favoriteTVShow
+    - favoriteSong
 
 3. Put all familyMember objects into an array under the variable name family
 

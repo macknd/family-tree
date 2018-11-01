@@ -15,7 +15,7 @@ for(i=0; i < familyMembers.length; i++){
     console.log(familyMembers[i].favoriteSong);
 }
 
-function updateShow(a){
+function updateSong(a){
     a.favoriteSong="Girls Like You";
 }
 
